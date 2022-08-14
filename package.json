@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sathiyabalakrishnan/cicd/issues"
   },
-  "homepage": "https://github.com/sathiyabalakrishnan/cicd#readme"
+  "homepage": "https://github.com/sathiyabalakrishnan/cicd#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
